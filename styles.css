@@ -32,3 +32,11 @@
     border-radius: 5px;
     font-size: 20px;
 }
+.button.ok{
+    border-color: hsl(100, 100%, 35%);
+    background-color: hsl(100, 100%, 35%);
+}
+.button.notok{
+    border-color: hsl(1, 100%, 35%);
+    background-color: hsl(1, 100%, 35%);
+}
