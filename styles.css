@@ -7,6 +7,7 @@
     background-color: hsl(211, 100%, 50%);
     color: white;
     font-family: 'Roboto', sans-serif;
+    font-size: 16px;
 
 }
 .button:hover{
@@ -19,4 +20,10 @@
 }
 .button:focus{
    outline: none;
+}
+.small.button{
+    padding: 4px 8px;
+    font-size: 14px;
+    border-radius: 3px;
+
 }
