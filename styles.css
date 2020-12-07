@@ -27,3 +27,8 @@
     border-radius: 3px;
 
 }
+.button.large{
+    padding: 8px 15;
+    border-radius: 5px;
+    font-size: 20px;
+}
