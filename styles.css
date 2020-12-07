@@ -9,3 +9,7 @@
     font-family: 'Roboto', sans-serif;
 
 }
+.button:hover{
+    border-color: hsl(211, 100%, 40%);
+    background-color: hsl(211, 100%, 40%);
+}
