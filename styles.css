@@ -17,3 +17,6 @@
     border-color: hsl(211, 100%, 35%);
     background-color: hsl(211, 100%, 35%);
 }
+.button:focus{
+   outline: none;
+}
