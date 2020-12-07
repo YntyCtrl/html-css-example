@@ -13,3 +13,7 @@
     border-color: hsl(211, 100%, 40%);
     background-color: hsl(211, 100%, 40%);
 }
+.button:active{
+    border-color: hsl(211, 100%, 35%);
+    background-color: hsl(211, 100%, 35%);
+}
